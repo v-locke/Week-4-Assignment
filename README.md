@@ -43,7 +43,7 @@ The following files are available for the train and test data. Their description
 2. Extracted only the measurements on the mean and standard deviation for each measurement.
 3. Used descriptive activity names to name the activities in the data set
 4. Appropriately labeled the data set with descriptive variable names.
-5. Created a second, independent tidy data set with the average of each variable for each activity and each subject using the data set in step 4,
+5. Created a second, independent tidy data set with the average of each variable for each activity and each subject using the data set in Step 4.
 
 ### Descriptive Labels
 * "t" = "Time"
@@ -53,3 +53,4 @@ The following files are available for the train and test data. Their description
 * "Mag" = "Magnitude"
 * "BodyBody" = "Body"
 * "()" = "" 
+
